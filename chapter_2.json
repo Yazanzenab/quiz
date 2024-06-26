@@ -1,0 +1,804 @@
+[
+    {
+        "question_id": 3776,
+        "question_text": "\u0627\u0644\u062a\u0647\u0627\u0628 \u0627\u0644\u062c\u0631\u064a\u0628\u0627\u062a \u0627\u0644\u0643\u0627\u0630\u0628 \u0641\u064a \u0627\u0644\u0644\u062d\u064a\u0629 \u0639\u062f\u0627:\r\n\r\n\r\n",
+        "answers": [
+            {
+                "answer_text": "\u062d\u0627\u0643 \u0648\u0645\u0632\u0645\u0646",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u064a\u0639\u0627\u0644\u062c \u0628\u0627\u0644\u0635\u0627\u062f\u0627\u062a \u0627\u0644\u0645\u0648\u0636\u0639\u064a\u0629 \u0648\u0627\u0644\u062c\u0647\u0627\u0632\u064a\u0629",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0631\u062a\u0643\u0627\u0633 \u0627\u0644\u062a\u0647\u0627\u0628\u064a \u0644\u062c\u0633\u0645 \u0627\u062c\u0646\u0628\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u064a\u0635\u064a\u0628 \u0630\u0648\u064a \u0627\u0644\u0634\u0639\u0631 \u0627\u0644\u0627\u062c\u0639\u062f",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062a\u0647\u0627\u0628 \u0645\u0627 \u062d\u0648\u0644 \u0627\u0644\u0634\u0639\u0631 \u062b\u0645 \u0641\u0631\u0637 \u062a\u0635\u0628\u063a \u0628\u0639\u062f \u0627\u0644\u0647\u0627\u0628\u064a \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0644\u062d\u064a\u0629",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u064a\u0639\u0627\u0644\u062c \u0628\u0627\u0644\u0635\u0627\u062f\u0627\u062a \u0627\u0644\u0645\u0648\u0636\u0639\u064a\u0629 \u0648\u0627\u0644\u062c\u0647\u0627\u0632\u064a\u0629"
+    },
+    {
+        "question_id": 3777,
+        "question_text": "\u0627\u0644\u0639\u0627\u0645\u0644 \u0627\u0644\u0645\u0633\u0628\u0628 \u0644\u0627\u0646\u062d\u0644\u0627\u0644 \u0627\u0644\u0637\u0628\u0642\u0629 \u0627\u0644\u0642\u0631\u0646\u064a\u0629 \u0627\u0644\u0645\u0646\u0642\u0631:\r\n",
+        "answers": [
+            {
+                "answer_text": "-\u0627\u0644\u062c\u0631\u0627\u062b\u064a\u0645 \u0627\u0644\u0648\u062a\u062f\u064a\u0629",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0645\u0643\u0648\u0631\u0627\u062a \u0627\u0644\u0639\u0642\u062f\u064a\u0629 \u0627\u0644\u0645\u0642\u064a\u062d\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0645\u0643\u0648\u0631\u0627\u062a \u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0629 \u0627\u0644\u0645\u0630\u0647\u0628\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0645\u0628\u064a\u0636\u0627\u062a \u0627\u0644\u0628\u064a\u0636",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0644\u0648\u0644\u0628\u064a\u0627\u062a \u0627\u0644\u0634\u0627\u062d\u0628\u0629",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "-\u0627\u0644\u062c\u0631\u0627\u062b\u064a\u0645 \u0627\u0644\u0648\u062a\u062f\u064a\u0629"
+    },
+    {
+        "question_id": 3778,
+        "question_text": "\u0627\u0644\u062a\u0647\u0627\u0628 \u0627\u0644\u062c\u0631\u064a\u0628\u0627\u062a \u0627\u0644\u0643\u0627\u0630\u0628 \u0641\u064a \u0627\u0644\u0644\u062d\u064a\u0629 \u064a\u0646\u062c\u0645 \u0639\u0646",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0627\u062a \u0627\u0644\u0645\u0630\u0647\u0628\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0639\u0642\u062f\u064a\u0627\u062a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0643\u0644\u0627\u0647\u0645\u0627",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0648\u0644\u0627 \u0648\u0627\u062d\u062f \u0645\u0646\u0647\u0645\u0627",
+                "is_true": true
+            }
+        ],
+        "correct_answer": "\u0648\u0644\u0627 \u0648\u0627\u062d\u062f \u0645\u0646\u0647\u0645\u0627"
+    },
+    {
+        "question_id": 3779,
+        "question_text": "\u0634\u0627\u0628 \u0628\u062f\u064a\u0646 \u064a\u0634\u0643\u0648 \u0645\u0646 \u0644\u0637\u062e\u0627\u062a \u0628\u0646\u064a\u0629 \u0641\u064a \u0627\u0644\u0627\u0628\u0637\u064a\u0646 \u0645\u0639 \u0648\u0633\u0648\u0641 \u0646\u0627\u0639\u0645\u0629 \u062a\u0639\u0637\u064a \u062a\u0623\u0644\u0642 \u0627\u062d\u0645\u0631 \u0628\u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0627\u0634\u0639\u0629 \u0648\u0648\u062f \u0641\u0645\u0627 \u0647\u0648 \u0627\u0644\u062a\u0634\u062e\u064a\u0635:\r\n",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0648\u0630\u062d",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0635\u062f\u0627\u0641",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0645\u0630\u062d \u0627\u0644\u0645\u0628\u064a\u0636\u0627\u062a \u0627\u0644\u0628\u064a\u0636",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0633\u0639\u0641\u0629 \u0627\u0644\u062b\u0646\u064a\u0627\u062a",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0648\u0630\u062d"
+    },
+    {
+        "question_id": 3780,
+        "question_text": "\u0627\u0644\u0645\u0643\u0648\u0631\u0627\u062a \u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0629 \u0647\u064a \u0627\u0644\u0639\u0627\u0645\u0644 \u0627\u0644\u0645\u0633\u0628\u0628 \u0644\u0644\u0627\u0645\u0631\u0627\u0636 \u0627\u0644\u062a\u0627\u0644\u064a\u0629 \u0645\u0627\u0639\u062f\u0627:\r\n\r\n",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0645\u0644\u064a\u0633\u0627\u0621 \u0627\u0644\u0633\u0627\u0631\u064a\u0629",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u062f\u0645\u0644",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062a\u0647\u0627\u0628 \u0627\u0644\u062c\u0631\u064a\u0628\u0627\u062a \u0627\u0644\u0634\u0639\u0631\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0642\u0648\u0628\u0627\u0621 \u0627\u0644\u0641\u0642\u0627\u0639\u064a\u0629",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0645\u0644\u064a\u0633\u0627\u0621 \u0627\u0644\u0633\u0627\u0631\u064a\u0629"
+    },
+    {
+        "question_id": 3781,
+        "question_text": "\u0627\u0644\u0634\u0643\u0644\u0627\u0646 \u0627\u0644\u0627\u0643\u062b\u0631 \u0634\u064a\u0648\u0639\u0627 \u0644\u0633\u0644 \u0627\u0644\u062c\u0644\u062f:\r\n",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0630\u0623\u0628 \u0627\u0644\u0634\u0627\u0626\u0639 \u0648\u0627\u0644\u062e\u0646\u0632\u0631\u0629",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0630\u0623\u0628 \u0627\u0644\u0634\u0627\u0626\u0639 \u0648\u0633\u0644 \u0627\u0644\u062c\u0644\u062f \u0627\u0644\u062b\u0624\u0644\u0648\u0644\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062e\u0646\u0632\u0631\u0629 \u0648\u0633\u0644 \u0627\u0644\u062c\u0644\u062f \u062d\u0648\u0644 \u0627\u0644\u0641\u0648\u0647\u0627\u062a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0630\u0623\u0628 \u0627\u0644\u0634\u0627\u0626\u0639 \u0648\u0633\u0644 \u0627\u0644\u062c\u0644\u062f \u062d\u0648\u0644 \u0627\u0644\u0641\u0648\u0647\u0627\u062a",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0630\u0623\u0628 \u0627\u0644\u0634\u0627\u0626\u0639 \u0648\u0627\u0644\u062e\u0646\u0632\u0631\u0629"
+    },
+    {
+        "question_id": 3783,
+        "question_text": "\u0627\u0643\u062b\u0631 \u0627\u0644\u0627\u0634\u0643\u0627\u0644 \u0627\u0644\u0645\u0639\u062f\u064a\u0629 \u0644\u0644\u062c\u0630\u0627\u0645:\r\n",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u0627\u0644\u062d\u062f\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u0627\u0644\u062f\u0631\u0646\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u0627\u0644\u062c\u0630\u0645\u0648\u0645\u064a",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u063a\u064a\u0631 \u0627\u0644\u0645\u062d\u062f\u062f",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u062c\u0630\u0627\u0645 \u0627\u0644\u062c\u0630\u0645\u0648\u0645\u064a"
+    },
+    {
+        "question_id": 3784,
+        "question_text": "\u0627\u0641\u0636\u0644 \u0637\u0631\u064a\u0642\u0629 \u0644\u062a\u0634\u062e\u064a\u0635 \u0627\u0644\u0648\u0630\u062d:\r\n\r\n\r\n",
+        "answers": [
+            {
+                "answer_text": "\u0636\u0648\u0621 \u0648\u0648\u062f",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0641\u062d\u0635 \u0627\u0644\u0645\u062c\u0647\u0631\u064a \u0627\u0644\u0645\u0628\u0627\u0634\u0631",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0632\u0631\u0639",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0627\u062e\u062a\u0628\u0627\u0631\u0627\u062a \u0627\u0644\u0645\u0635\u0644\u064a\u0629",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0636\u0648\u0621 \u0648\u0648\u062f"
+    },
+    {
+        "question_id": 3785,
+        "question_text": "\u0627\u0644\u062d\u0645\u0627\u0645\u0649 \u0627\u0644\u0639\u0642\u062f\u0629 \u0627\u0644\u062c\u0630\u0627\u0645\u064a\u0629 \u0647\u064a \u062a\u0638\u0627\u0647\u0631\u0629\r\n\u0644:\r\n",
+        "answers": [
+            {
+                "answer_text": "\u062a\u0641\u0627\u0639\u0644\u0627\u062a \u0627\u0644\u0646\u0645\u0637 \u0627\u0644\u062b\u0627\u0646\u064a",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u062a\u0641\u0627\u0639\u0644\u0627\u062a \u0627\u0644\u0646\u0645\u0637 \u0627\u0644\u0627\u0648\u0644\r\n",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u0627\u0644\u062f\u0631\u0646\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u063a\u064a\u0631 \u0627\u0644\u0645\u062d\u062f\u062f",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u062a\u0641\u0627\u0639\u0644\u0627\u062a \u0627\u0644\u0646\u0645\u0637 \u0627\u0644\u062b\u0627\u0646\u064a"
+    },
+    {
+        "question_id": 3786,
+        "question_text": "\u0648\u0627\u062d\u062f \u0645\u0645\u0627 \u064a\u0644\u064a \u0644\u0627 \u064a\u0635\u0627\u0628 \u0628\u0627\u0644\u062c\u0630\u0627\u0645:\r\n",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0631\u0626\u0629",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0627\u0639\u0635\u0627\u0628 \u0627\u0644\u0645\u062d\u064a\u0637\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0627\u063a\u0634\u064a\u0629 \u0627\u0644\u0645\u062e\u0627\u0637\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0644\u062f",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0631\u0626\u0629"
+    },
+    {
+        "question_id": 3787,
+        "question_text": " \u0631\u0627\u062c\u0639 \u0633\u064a\u062f 68\u0633\u0646\u0629 \u0628\u0645\u0646\u0637\u0642\u0629 \u062d\u0645\u0631\u0627\u0621 \u0645\u062a\u0648\u0631\u0645\u0629 \u062d\u0627\u062f\u0629 \u0642\u0627\u0633\u064a\u0629 \u0645\u0646 \u0627\u0644\u062c\u0644\u062f \u0645\u062d\u062f\u062f\u0629 \u062c\u064a\u062f\u0627 \u0645\u0639 \u062d\u0627\u0641\u0629 \u0645\u0631\u062a\u0641\u0639\u0629..\u0627\u0644\u0645\u0631\u064a\u0636 \u0628\u0634\u0643\u0644 \u0639\u0627\u0645 \u063a\u064a\u0631 \u062c\u064a\u062f \u0645\u0639 \u062d\u0645\u0649..\u0645\u0627\u0647\u064a \u0627\u0644\u0645\u062a\u0639\u0636\u064a\u0629 \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u0629 \u0639\u0646 \u0647\u0630\u0647 \u0627\u0644\u062d\u0627\u0644\u0629\u061f\r\n",
+        "answers": [
+            {
+                "answer_text": "streptococcus pyogenes",
+                "is_true": false
+            },
+            {
+                "answer_text": "Group B haemolytic streptococcus",
+                "is_true": true
+            },
+            {
+                "answer_text": "Herpes simplex virus",
+                "is_true": false
+            },
+            {
+                "answer_text": "Staphylococcus Aureus",
+                "is_true": false
+            },
+            {
+                "answer_text": "Staph.Epidermidis",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "Group B haemolytic streptococcus"
+    },
+    {
+        "question_id": 3788,
+        "question_text": "\u062e\u0645\u062c \u0639\u0645\u064a\u0642 \u064a\u0635\u064a\u0628 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u062c\u0631\u064a\u0628\u0627\u062a \u0627\u0644\u0634\u0639\u0631\u064a\u0629 \u0627\u0644\u0645\u062a\u062c\u0627\u0648\u0631\u0629 \u0628\u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0627\u062a \u0627\u0644\u0645\u0630\u0647\u0628\u0629.. \u064a\u062a\u0631\u0627\u0641\u0642 \u0645\u0639 \u0627\u0644\u0633\u0643\u0631\u064a \u0648\u0627\u0644\u0628\u062f\u0627\u0646\u0629",
+        "answers": [
+            {
+                "answer_text": "furunculosis",
+                "is_true": false
+            },
+            {
+                "answer_text": "folliculitis",
+                "is_true": false
+            },
+            {
+                "answer_text": "carbuncle",
+                "is_true": true
+            },
+            {
+                "answer_text": "Impetigo",
+                "is_true": false
+            },
+            {
+                "answer_text": "cellulitis",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "carbuncle"
+    },
+    {
+        "question_id": 3789,
+        "question_text": "\u062a\u0634\u0627\u0647\u062f \u0627\u0644\u0633\u062d\u0646\u0629 \u0627\u0644\u0627\u0633\u062f\u064a\u0629 \u0641\u064a",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u0627\u0644\u062f\u0631\u0646\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u063a\u064a\u0631 \u0627\u0644\u0645\u062d\u062f\u062f",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u0627\u0644\u062c\u0630\u0645\u0648\u0645\u064a",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u0627\u0644\u062d\u062f\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0630\u0623\u0628 \u0627\u0644\u0634\u0627\u0626\u0639",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u062c\u0630\u0627\u0645 \u0627\u0644\u062c\u0630\u0645\u0648\u0645\u064a"
+    },
+    {
+        "question_id": 4005,
+        "question_text": "\u0633\u064a\u062f\u0629 \u0628\u062f\u064a\u0646\u0629 \u0628\u0639\u0645\u0631 23\u0633\u0646\u0629 \u0645\u0635\u0627\u0628\u0629 \u0628\u0627\u0644\u0633\u0644 \u0631\u0627\u062c\u0639\u062a \u0628\u0639\u0642\u064a\u062f\u0627\u062a \u0645\u062a\u0642\u0631\u062d\u0629\u0639\u0644\u0649 \u0627\u0644\u0648\u062c\u0647 \u0627\u0644\u062e\u0644\u0641\u064a \u0644\u0644\u0633\u0627\u0642\u064a\u0646 \u0645\u0627 \u0647\u0648 \u0627\u0644\u062a\u0634\u062e\u064a\u0635 \u0627\u0644\u0627\u0643\u062b\u0631 \u0627\u062d\u062a\u0645\u0627\u0644\u0627 \u0645\u0645\u0627 \u064a\u0644\u064a:\r\n",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u062d\u0645\u0627\u0645\u0649 \u0627\u0644\u0647\u0627\u0645\u0634\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062d\u0645\u0627\u0645\u0649 \u0627\u0644\u0639\u0642\u062f\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062d\u0645\u0627\u0645\u0649 \u0627\u0644\u0635\u0644\u0628\u0629",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0630\u0623\u0628 \u0627\u0644\u0634\u0627\u0626\u0639",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0630\u0623\u0628 \u0627\u0644\u0634\u0631\u0633\u064a",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u062d\u0645\u0627\u0645\u0649 \u0627\u0644\u0635\u0644\u0628\u0629"
+    },
+    {
+        "question_id": 4006,
+        "question_text": "\u0639\u0646\u062f \u062a\u0639\u0631\u064a\u0636 \u0645\u0646\u0637\u0642\u0629 \u0641\u064a \u0627\u0644\u062b\u0646\u064a\u0629 \u0627\u0644\u0627\u0628\u0637\u064a\u0629 \u064a\u0648\u062c\u062f \u0641\u064a\u0647\u0627 \u0644\u0648\u064a\u062d\u0629 \u062d\u0645\u0627\u0645\u064a\u0629 \u0627\u0644\u0649 \u0636\u0648\u0621 \u0648\u0648\u062f \u0644\u0648\u062d\u0638 \u062a\u0644\u0648\u0646\u0647\u0627 \u0628\u0644\u0648\u0646 \u0627\u062d\u0645\u0631 \u0627\u062c\u0631\u064a \u0641\u064a\u0643\u0648\u0646 \u0627\u0644\u0639\u0627\u0645\u0644 \u0627\u0644\u0645\u0633\u0628\u0628:",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0648\u0630\u062d(\u0627\u0644\u0648\u062a\u062f\u064a\u0627\u062a)",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0645\u0628\u064a\u0636\u0627\u062a \u0627\u0644\u0628\u064a\u0636",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0645\u0643\u0648\u0631\u0627\u062a \u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0629 \u0627\u0644\u0645\u0630\u0647\u0628\u0629",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0648\u0630\u062d(\u0627\u0644\u0648\u062a\u062f\u064a\u0627\u062a)"
+    },
+    {
+        "question_id": 4008,
+        "question_text": "\u0627\u0644\u0645\u0643\u0648\u0631\u0627\u062a \u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0629 \u0647\u064a \u0627\u0644\u0645\u0633\u0628\u0628 \u0644\u0644\u0627\u0645\u0631\u0627\u0636 \u0627\u0644\u062a\u0627\u0644\u064a\u0629 \u0645\u0627\u0639\u062f\u0627:",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u062f\u0645\u0644",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0645\u0644\u064a\u0633\u0627\u0621 \u0627\u0644\u0633\u0627\u0631\u064a\u0629",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0642\u0648\u0628\u0627\u0621 \u0627\u0644\u0641\u0642\u0627\u0639\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0645\u0631\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062a\u0647\u0627\u0628 \u0627\u0644\u062c\u0631\u064a\u0628\u0627\u062a \u0627\u0644\u0634\u0639\u0631\u064a\u0629",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0645\u0644\u064a\u0633\u0627\u0621 \u0627\u0644\u0633\u0627\u0631\u064a\u0629"
+    },
+    {
+        "question_id": 4009,
+        "question_text": "\u062a\u0643\u0648\u0646 \u0627\u0644\u0627\u0641\u0627\u062a \u0627\u0644\u062c\u0644\u062f\u064a\u0629 \u063a\u0632\u064a\u0631\u0629 \u0648\u0635\u063a\u064a\u0631\u0629 \u0627\u0644\u062d\u062c\u0645 \u0641\u064a:",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u0627\u0644\u062f\u0631\u0646\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u0627\u0644\u062c\u0630\u0645\u0648\u0645\u064a",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u0627\u0644\u062d\u062f\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645 \u063a\u064a\u0631 \u0627\u0644\u0645\u062d\u062f\u062f",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u062c\u0630\u0627\u0645 \u0627\u0644\u062c\u0630\u0645\u0648\u0645\u064a"
+    },
+    {
+        "question_id": 4264,
+        "question_text": "\u0645\u0631\u0636 \u062c\u0644\u062f\u064a \u064a\u062a\u0645\u064a\u0632 \u0628\u0630\u064a\u0641\u0627\u0646 \u062e\u0627\u0631\u062c\u064a \u064a\u062e\u0631\u0628 \u0627\u0644\u062a\u0635\u0627\u0642  \u0627\u0644\u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u0645\u0642\u0631\u0646\u0629 \u0641\u064a \u0627\u0644\u0637\u0628\u0642\u0629 \u0627\u0644\u062d\u0628\u064a\u0628\u064a\u0629 \u0641\u0642\u0637,\u064a\u062a\u0645\u064a\u0632 \u0628\u062d\u0645\u0649 \u0648\u0637\u0641\u062d \u062d\u0645\u0627\u0645\u064a \u0645\u0639\u0645\u0645 \u0648\u0627\u0646\u0633\u0644\u0627\u062e \u0627\u0644\u0637\u0628\u0642\u0627\u062a \u0627\u0644\u0639\u0644\u064a\u0627 \u0644\u0644\u0628\u0634\u0631\u0629 ,\u064a\u0634\u0627\u0647\u062f \u0639\u0646\u062f \u0627\u0644\u0648\u0644\u062f\u0627\u0646 \u0648\u0627\u0644\u0627\u0637\u0641\u0627\u0644:",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0646\u062d\u0644\u0627\u0644 \u0627\u0644\u0628\u0634\u0631\u0629 \u0627\u0644\u0646\u062e\u0631\u064a \u0627\u0644\u0633\u0645\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0645\u062a\u0644\u0627\u0632\u0645\u0629 \u0627\u0644\u062c\u0644\u062f \u0627\u0644\u0633\u0645\u0637\u064a \u0628\u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0627\u062a",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u062d\u0645\u0627\u0645\u0649 \u0639\u062f\u064a\u062f\u0629 \u0627\u0644\u0627\u0634\u0643\u0627\u0644",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0637\u0641\u062d \u0641\u064a\u0631\u0648\u0633\u064a",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0645\u062a\u0644\u0627\u0632\u0645\u0629 \u0627\u0644\u062c\u0644\u062f \u0627\u0644\u0633\u0645\u0637\u064a \u0628\u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0627\u062a"
+    },
+    {
+        "question_id": 4265,
+        "question_text": "\u0623\u064a \u0634\u0643\u0644 \u0645\u0646 \u0627\u0634\u0643\u0627\u0644 \u0627\u0644\u0633\u0644 \u064a\u062a\u0631\u0627\u0641\u0642 \u0645\u0639 \u0627\u0639\u0644\u0649 \u0645\u0633\u062a\u0648\u0649 \u0644\u0644\u0645\u0646\u0627\u0639\u0629\u061f",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0630\u0623\u0628 \u0627\u0644\u0634\u0627\u0626\u0639",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0633\u0644 \u0627\u0644\u062c\u0644\u062f \u0627\u0644\u062b\u0624\u0644\u0648\u0644\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0642\u0631\u062d \u0627\u0644\u0633\u0644\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0635\u0645\u063a\u0629 \u0627\u0644\u0633\u0644\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0633\u0644 \u0627\u0644\u062f\u062e\u0646\u064a",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0630\u0623\u0628 \u0627\u0644\u0634\u0627\u0626\u0639"
+    },
+    {
+        "question_id": 4267,
+        "question_text": "\u0627\u0644\u0639\u0627\u0645\u0644 \u0627\u0644\u0645\u0633\u0628\u0628 \u0644\u0644\u062d\u0645\u0631\u0629",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0639\u0642\u062f\u064a\u0627\u062a \u0627\u0644\u062d\u0627\u0644\u0629 \u0644\u0644\u062f\u0645 \u0628\u064a\u062a\u0627 \u0646\u0645\u0637 A",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0627\u062a \u0627\u0644\u0645\u0630\u0647\u0628\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0645\u062a\u0641\u0637\u0631\u0627\u062a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0643\u0644\u0627\u0645\u064a\u062f\u064a\u0627",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0639\u0642\u062f\u064a\u0627\u062a \u0627\u0644\u062d\u0627\u0644\u0629 \u0644\u0644\u062f\u0645 \u0628\u064a\u062a\u0627 \u0646\u0645\u0637 A"
+    },
+    {
+        "question_id": 4269,
+        "question_text": "\u0627\u0644\u0639\u0627\u0645\u0644 \u0627\u0644\u0645\u0633\u0628\u0628 \u0644\u0644\u062f\u0645\u0644",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0627\u062a \u0627\u0644\u0645\u0630\u0647\u0628\u0629",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0639\u0642\u062f\u064a\u0627\u062a \u0627\u0644\u062d\u0627\u0644\u0629 \u0644\u0644\u062f\u0645 \u0628\u064a\u062a\u0627",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0645\u062a\u0641\u0637\u0631\u0627\u062a",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0627\u062a \u0627\u0644\u0645\u0630\u0647\u0628\u0629"
+    },
+    {
+        "question_id": 4270,
+        "question_text": "\u064a\u0639\u0627\u0644\u062c \u0627\u0644\u062c\u0630\u0627\u0645 \u0628\u0643\u0644 \u0645\u0627\u064a\u0644\u064a \u0645\u0627\u0639\u062f\u0627",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u062f\u0627\u0628\u0633\u0648\u0646",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0631\u064a\u0641\u0627\u0645\u0628\u064a\u0646",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0643\u0644\u0648\u0641\u0627\u0632\u064a\u0645\u064a\u0646",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0628\u0646\u0633\u0644\u064a\u0646",
+                "is_true": true
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0628\u0646\u0633\u0644\u064a\u0646"
+    },
+    {
+        "question_id": 4273,
+        "question_text": "\u0627\u0644\u0634\u0643\u0644 \u0627\u0644\u062a\u0642\u0631\u062d\u064a \u0644\u0644\u0642\u0648\u0628\u0627\u0621:",
+        "answers": [
+            {
+                "answer_text": "eczema",
+                "is_true": false
+            },
+            {
+                "answer_text": "ecthyma",
+                "is_true": true
+            },
+            {
+                "answer_text": "cellulitis",
+                "is_true": false
+            },
+            {
+                "answer_text": "erisipelas",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "ecthyma"
+    },
+    {
+        "question_id": 4274,
+        "question_text": "\u0627\u0644\u0645\u0639\u0627\u064a\u0646\u0629 \u0627\u0644\u0634\u0641\u0648\u0641\u064a\u0629 \u062a\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u062a\u0634\u062e\u064a\u0635",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0630\u0623\u0628 \u0627\u0644\u0634\u0627\u0626\u0639",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0635\u062f\u0627\u0641",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0633\u0639\u0641\u0629 \u0627\u0644\u062c\u0633\u062f",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0630\u0623\u0628 \u0627\u0644\u0634\u0627\u0626\u0639"
+    },
+    {
+        "question_id": 4276,
+        "question_text": "\u0633\u064a\u062f\u062923 \u0633\u0646\u0629 \u0645\u0635\u0627\u0628\u0629 \u0628\u0633\u0644 \u0631\u0627\u062c\u0639\u062a \u0628\u0639\u0642\u064a\u062f\u0627\u062a \u0645\u062a\u0642\u0631\u062d\u0629 \u0639\u0644\u0649 \u0627\u0644\u0648\u062c\u0647 \u0627\u0644\u062e\u0644\u0641\u064a \u0644\u0644\u0633\u0627\u0642\u064a\u0646,\u0645\u0627\u0627\u0644\u062a\u0634\u062e\u064a\u0635 \u0627\u0644\u0627\u0643\u062b\u0631 \u0627\u062d\u062a\u0645\u0627\u0644\u0627:",
+        "answers": [
+            {
+                "answer_text": "erythema marginatum",
+                "is_true": false
+            },
+            {
+                "answer_text": "erythema nodosum",
+                "is_true": false
+            },
+            {
+                "answer_text": "erythema induratum",
+                "is_true": true
+            },
+            {
+                "answer_text": "lupus vulgaris",
+                "is_true": false
+            },
+            {
+                "answer_text": "lupus pernio",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "erythema induratum"
+    },
+    {
+        "question_id": 4277,
+        "question_text": "\u0627\u062d\u062f \u0627\u0644\u0627\u0645\u0631\u0627\u0636 \u0627\u0644\u062a\u0627\u0644\u064a\u0629 \u0644\u0627 \u062a\u0646\u062c\u0645 \u0639\u0646 \u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0627\u062a:",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u062f\u0645\u0644",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0642\u0648\u0628\u0627\u0621 \u0627\u0644\u0641\u0642\u0627\u0639\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062a\u0647\u0627\u0628 \u0627\u0644\u062c\u0631\u064a\u0628\u0627\u062a \u0627\u0644\u0633\u0637\u062d\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0648\u0630\u062d",
+                "is_true": true
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0648\u0630\u062d"
+    },
+    {
+        "question_id": 4284,
+        "question_text": "\u0639\u0642\u064a\u062f\u0627\u062a \u0647\u0644\u0627\u0645 \u0627\u0644\u062a\u0641\u0627\u062d:",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0630\u0623\u0628 \u0627\u0644\u0634\u0627\u0626\u0639",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0633\u0644 \u0627\u0644\u062c\u0644\u062f",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u062e\u0646\u0632\u0631\u0629",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0630\u0623\u0628 \u0627\u0644\u0634\u0627\u0626\u0639"
+    },
+    {
+        "question_id": 4286,
+        "question_text": "\u064a\u0646\u062c\u0645 \u0627\u0644\u0641\u0637\u0627\u0631 \u0627\u0644\u0634\u0639\u0631\u064a \u0627\u0644\u0627\u0628\u0637\u064a \u0639\u0646 ",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0648\u062a\u062f\u064a\u0627\u062a",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0645\u0628\u064a\u0636\u0627\u062a \u0627\u0644\u0628\u064a\u0636",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0627\u062a \u0627\u0644\u0645\u0630\u0647\u0628\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0641\u0637\u0648\u0631 \u0627\u0644\u062c\u0644\u062f\u064a\u0629",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0648\u062a\u062f\u064a\u0627\u062a"
+    },
+    {
+        "question_id": 4323,
+        "question_text": "\u064a\u0634\u064a\u0631 \u062a\u0643\u0631\u0627\u0631 \u0627\u0644\u062f\u0645\u0644 \u0627\u0644\u0649 \u0639\u0648\u0627\u0645\u0644 \u0645\u0624\u0647\u0628\u0629 \u062a\u0634\u0645\u0644 \u0643\u0644 \u0645\u0627\u064a\u0644\u064a \u0645\u0627\u0639\u062f\u0627:",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0639\u0644\u0627\u062c \u0628\u0627\u0644\u0633\u062a\u064a\u0631\u0648\u0626\u064a\u062f\u0627\u062a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0627\u0635\u0627\u0628\u0629 \u0628\u0627\u0644\u0633\u0643\u0631\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062a\u062f\u062e\u064a\u0646",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0639\u0648\u0632 \u0627\u0644\u0645\u0646\u0627\u0639\u0629",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u062a\u062f\u062e\u064a\u0646"
+    },
+    {
+        "question_id": 4324,
+        "question_text": "\u0627\u0644\u062d\u0645\u0631\u0629 \u0646\u0631\u0627\u0647\u0627 \u0628\u0634\u0643\u0644 \u062e\u0627\u0635 \u0639\u0644\u0649",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0643\u062a\u0641",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0633\u0627\u0642",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0642\u062f\u0645",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0639",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0633\u0627\u0642"
+    },
+    {
+        "question_id": 4325,
+        "question_text": "\u0641\u064a \u0627\u0646\u062d\u0644\u0627\u0644 \u0627\u0644\u0628\u0634\u0631\u0629 \u0627\u0644\u0646\u062e\u0631\u064a \u0627\u0644\u0633\u0645\u064a",
+        "answers": [
+            {
+                "answer_text": "\u064a\u062d\u062f\u062b \u0644\u062f\u0649 \u0627\u0644\u0627\u0637\u0641\u0627\u0644 \u0648\u0627\u0644\u0631\u0636\u0639",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u064a\u0646\u062c\u0645 \u0639\u0646 \u0627\u0644\u062e\u0645\u062c \u0628\u0627\u0644\u0639\u0646\u0642\u0648\u062f\u064a\u0627\u062a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u064a\u0646\u062c\u0645 \u0639\u0646 \u0627\u0644\u0627\u062f\u0648\u064a\u0629",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0646\u0630\u0627\u0631\u0647 \u062c\u064a\u062f",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u064a\u0646\u062c\u0645 \u0639\u0646 \u0627\u0644\u0627\u062f\u0648\u064a\u0629"
+    },
+    {
+        "question_id": 5207,
+        "question_text": "\u062a\u0646\u062c\u0645 \u0627\u0644\u0639\u0642\u064a\u062f\u0627\u062a \u0627\u0644\u0645\u0645\u0636\u0629 \u0644\u0644\u062d\u0645\u0627\u0645\u0649 \u0627\u0644\u0639\u0642\u062f\u0629 \u0639\u0646 \u0643\u0644 \u0645\u0627\u064a\u0644\u064a \u0645\u0627\u0639\u062f\u0627:",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u062e\u0645\u062c \u0628\u0627\u0644\u0639\u0642\u062f\u064a\u0627\u062a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0633\u0644",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0630\u0627\u0645",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0646\u062e\u0631 \u0627\u0644\u0634\u062d\u0645\u064a",
+                "is_true": true
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0646\u062e\u0631 \u0627\u0644\u0634\u062d\u0645\u064a"
+    },
+    {
+        "question_id": 28392,
+        "question_text": "\u0627\u0644\u0634\u0643\u0644 \u0627\u0644\u0639\u0645\u064a\u0642 \u0645\u0646 \u0627\u0644\u0642\u0648\u0628\u0627\u0621 \u0647\u0648",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0627\u0643\u062a\u064a\u0645\u0627",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u062c\u0645\u0631\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062f\u0645\u0644",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062d\u0645\u0631\u0629",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0627\u0643\u062a\u064a\u0645\u0627"
+    },
+    {
+        "question_id": 28393,
+        "question_text": "\u0627\u0644\u062a\u0648\u0636\u0639 \u0627\u0644\u0645\u0641\u0636\u0644 \u0644\u0644\u062d\u0645\u0631\u0629 \u0647\u0648",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0633\u0627\u0639\u062f",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0631\u0627\u062d\u0629 \u0627\u0644\u064a\u062f",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0641\u062e\u0630",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0648\u062c\u0647 \u0648\u0627\u0644\u0633\u0627\u0642",
+                "is_true": true
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0648\u062c\u0647 \u0648\u0627\u0644\u0633\u0627\u0642"
+    }
+]
