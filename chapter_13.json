@@ -1,0 +1,775 @@
+[
+    {
+        "question_id": 18357,
+        "question_text": "Microcytic hypochromic anemia\r\n\u0646\u062c\u062f\u0647 \u0641\u064a \u0645\u0627\u064a\u0644\u064a \u0639\u062f\u0627 :",
+        "answers": [
+            {
+                "answer_text": "Chronic disease",
+                "is_true": false
+            },
+            {
+                "answer_text": "Thalassemia",
+                "is_true": false
+            },
+            {
+                "answer_text": "Sidero blastic anemia",
+                "is_true": false
+            },
+            {
+                "answer_text": "Myelodysplastic syndrome ",
+                "is_true": true
+            }
+        ],
+        "correct_answer": "Myelodysplastic syndrome "
+    },
+    {
+        "question_id": 18358,
+        "question_text": "\u0627\u0647\u0645 \u0645\u0634\u0639\u0631 \u062f\u0645\u0648\u064a \u0641\u064a \u0641\u0642\u0631 \u0627\u0644\u062f\u0645 :",
+        "answers": [
+            {
+                "answer_text": "MCHC ",
+                "is_true": true
+            },
+            {
+                "answer_text": "MCV",
+                "is_true": false
+            },
+            {
+                "answer_text": "MCH",
+                "is_true": false
+            },
+            {
+                "answer_text": "Hb",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "MCHC "
+    },
+    {
+        "question_id": 18359,
+        "question_text": "\u0627\u0646\u062d\u0644\u0627\u0644 \u0627\u0644\u0643\u0631\u064a\u0629 \u0627\u0644\u062d\u0645\u0631\u0627\u0621 \u0647\u0648 :",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0646\u0641\u0635\u0627\u0644 \u0627\u0644\u063a\u0634\u0627\u0621 \u0639\u0646 \u0628\u0642\u064a\u0629 \u0627\u0644\u0623\u062c\u0632\u0627\u0621 ",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u062a\u0641\u0643\u0643 \u0627\u0644\u0647\u064a\u0645\u0648\u063a\u0644\u0648\u0628\u064a\u0646",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0646\u0642\u0635 \u0627\u0644\u0645\u0627\u0621 \u062f\u0627\u062e\u0644 \u0627\u0644\u0643\u0631\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0646\u0642\u0635 \u0646\u0634\u0627\u0637 \u0627\u0644\u0627\u0646\u0632\u064a\u0645\u0627\u062a \u062f\u0627\u062e\u0644 \u0627\u0644\u0643\u0631\u064a\u0629 ",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u062a\u0641\u0643\u0643 \u0627\u0644\u0647\u064a\u0645\u0648\u063a\u0644\u0648\u0628\u064a\u0646"
+    },
+    {
+        "question_id": 18360,
+        "question_text": "\u0627\u0644\u0645\u0633\u0624\u0648\u0644 \u0639\u0646 \u0627\u0644\u0634\u0643\u0644 \u0627\u0644\u0642\u0631\u0635\u064a \u0644\u0644\u0643\u0631\u064a\u0629 \u0627\u0644\u062d\u0645\u0631\u0627\u0621 :",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0633\u0628\u0643\u0631\u062a\u064a\u0646",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0646\u0643\u064a\u0631\u064a\u0646 ",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646 \u0645\u0639\u0627",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0643\u0644 \u0645\u0627\u0633\u0628\u0642 \u062e\u0627\u0637\u0626",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0633\u0628\u0643\u0631\u062a\u064a\u0646"
+    },
+    {
+        "question_id": 18361,
+        "question_text": "\u0641\u0642\u0631 \u0627\u0644\u062f\u0645 \u0628\u0627\u0644\u064a\u0629 \u0645\u0631\u0643\u0632\u064a\u0629 \u0645\u0627\u0639\u062f\u0627 :",
+        "answers": [
+            {
+                "answer_text": "\u0644\u0627 \u062a\u0646\u0633\u062c \u0627\u0644\u0646\u0642\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0636\u062e\u0627\u0645\u0629 \u0637\u062d\u0627\u0644 ",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u062a\u0643\u0648\u0646 \u0627\u0644\u062f\u0645 \u0627\u0644\u0644\u0627 \u0641\u0639\u0627\u0644",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u062a\u0644\u064a\u0641 \u0627\u0644\u0646\u0642\u064a ",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0636\u062e\u0627\u0645\u0629 \u0637\u062d\u0627\u0644 "
+    },
+    {
+        "question_id": 18362,
+        "question_text": "\u0641\u0642\u0631 \u062f\u0645 \u0643\u0628\u064a\u0631 \u0627\u0644\u0643\u0631\u064a\u0627\u062a :",
+        "answers": [
+            {
+                "answer_text": "Liver disease ",
+                "is_true": false
+            },
+            {
+                "answer_text": "Folate deficincey",
+                "is_true": false
+            },
+            {
+                "answer_text": "Myeloblastic syndrome ",
+                "is_true": true
+            },
+            {
+                "answer_text": "Hypothrodisim",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "Myeloblastic syndrome "
+    },
+    {
+        "question_id": 18363,
+        "question_text": "\u062a\u062a\u0639\u0644\u0642 \u0644\u0632\u0648\u062c\u0629 \u0627\u0644\u062f\u0645 \u0628\u0627\u0644\u0641\u064a\u0628\u0631\u0648\u0646\u062c\u064a\u0646 \u0648 \u0627\u0644\u0627\u0644\u0628\u0648\u0645\u064a\u0646 ",
+        "answers": [
+            {
+                "answer_text": "\u0635\u062d",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u062e\u0637\u0623 ",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0635\u062d"
+    },
+    {
+        "question_id": 18364,
+        "question_text": "\u0627\u0644\u0628\u064a\u0644\u0631\u0648\u0628\u064a\u0646 \u0627\u0644\u0643\u0644\u064a \u0641\u064a \u0627\u0644\u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0628\u064a\u0639\u064a\u0629 \u0627\u0642\u0644 \u0645\u0646 1 \u0645\u063a/\u062f\u0644 : ",
+        "answers": [
+            {
+                "answer_text": "\u0635\u062d ",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u063a\u0644\u0637",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0635\u062d "
+    },
+    {
+        "question_id": 18365,
+        "question_text": "\u062a\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u0639\u0645\u0644\u064a\u0629 \u0632\u0631\u0639 \u0627\u0644\u0646\u0642\u064a :",
+        "answers": [
+            {
+                "answer_text": "Pluripotent stem cells",
+                "is_true": true
+            },
+            {
+                "answer_text": "Iymphoid stem cells ",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0643\u0644\u0627\u0647\u0645\u0627 \u0635\u062d",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0643\u0644\u0627\u0647\u0645\u0627 \u062e\u0637\u0623 ",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "Pluripotent stem cells"
+    },
+    {
+        "question_id": 18366,
+        "question_text": "\u0639\u0646\u062f \u062a\u0644\u064a\u0641 \u0627\u0644\u0646\u0642\u064a) \u0625\u062c\u0627\u0628\u0629 \u0635\u062d\u064a\u062d\u0629 (:",
+        "answers": [
+            {
+                "answer_text": "\u0638\u0647\u0648\u0631 \u0623\u062c\u0633\u0627\u0645 \u0647\u0627\u0648\u0644 \u062c\u0648\u0644\u064a ",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u062a\u0638\u0647\u0631 \u0643\u0631\u064a\u0627\u062a \u062d\u0645\u0631 \u0645\u062c\u0632\u0627\u0629 ",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u062a\u0631\u062a\u0641\u0639 \u0627\u0644\u0634\u0628\u0643\u064a\u0627\u062a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0641\u0642\u0631 \u062f\u0645 \u0646\u0627\u0642\u0635 \u0627\u0644\u0635\u0628\u0627\u063a",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u062a\u0638\u0647\u0631 \u0643\u0631\u064a\u0627\u062a \u062d\u0645\u0631 \u0645\u062c\u0632\u0627\u0629 "
+    },
+    {
+        "question_id": 18873,
+        "question_text": "\u062a\u0635\u0628\u062d \u0627\u0644\u0643\u0631\u064a\u0629 \u0627\u0644\u062d\u0645\u0631\u0627\u0621 \u0628\u0639\u062f \u0633\u062d\u0628 \u0627\u0644\u062f\u0645 \u0628\u0641\u062a\u0631\u0629 \u0637\u0648\u064a\u0644\u0629",
+        "answers": [
+            {
+                "answer_text": "\u0645\u0646\u0643\u0645\u0634\u0629",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0645\u062a\u0643\u0648\u0631\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0628\u064a\u0636\u0648\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0643\u0644 \u0645\u0627 \u0633\u0628\u0642 \u062e\u0627\u0637\u0649\u0621",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0645\u0646\u0643\u0645\u0634\u0629"
+    },
+    {
+        "question_id": 18874,
+        "question_text": "\u0643\u0644 \u0645\u0627 \u064a\u0644\u064a \u064a\u062d\u062f\u062b \u0641\u064a \u0627\u0644\u0645\u062a\u0644\u0627\u0632\u0645\u0627\u062a \u0627\u0644\u062e\u0632\u0628\u064a\u0629 \u0639\u062f\u0627",
+        "answers": [
+            {
+                "answer_text": "\u0641\u0642\u0631 \u062f\u0645 \u0643\u0627\u0630\u0628",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u062d\u062a\u0628\u0627\u0633 \u0633\u0648\u0627\u0626\u0644 ",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u062a\u062e\u0641\u064a\u0641 \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u062f\u0645\u0648\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0643\u0644 \u0645\u0627 \u0633\u0628\u0642 \u062e\u0627\u0637\u0649\u0621 ",
+                "is_true": true
+            }
+        ],
+        "correct_answer": "\u0643\u0644 \u0645\u0627 \u0633\u0628\u0642 \u062e\u0627\u0637\u0649\u0621 "
+    },
+    {
+        "question_id": 18876,
+        "question_text": "\u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0644\u0633\u0648\u064a\u0629 \u0644\u0644\u0645\u0634\u0639\u0631\u0627\u062a \u0627\u0644\u062f\u0645\u0648\u064a\u0629",
+        "answers": [
+            {
+                "answer_text": "MCV 75-95 \u0641\u0645\u062a\u0648\u0644\u062a\u0631",
+                "is_true": false
+            },
+            {
+                "answer_text": "MCH 28-32%",
+                "is_true": true
+            },
+            {
+                "answer_text": "MCHC 30-34",
+                "is_true": false
+            },
+            {
+                "answer_text": "Ht 40-45%",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "MCH 28-32%"
+    },
+    {
+        "question_id": 18877,
+        "question_text": "\u064a\u0631\u062a\u0641\u0639 \u0627\u0644\u0647\u064a\u0645\u0627\u062a\u0648\u0643\u0631\u064a\u062a \u0641\u064a \u0643\u0644 \u0645\u0627 \u064a\u0644\u064a \u0639\u062f\u0627",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u062d\u0631\u0648\u0642",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u062a\u062c\u0641\u0627\u0641",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u062d\u0645\u0631\u0627\u0631 \u0627\u0644\u062f\u0645",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062a\u062f\u062e\u064a\u0646",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u062d\u0631\u0648\u0642"
+    },
+    {
+        "question_id": 18878,
+        "question_text": "\u062a\u062d\u062f\u062b \u0627\u0644\u0643\u0631\u064a\u0627\u062a \u0627\u0644\u0628\u064a\u0636\u0648\u064a\u0629 \u0628\u0633\u0628\u0628 \u0643\u0644 \u0645\u0627 \u064a\u0644\u064a \u0639\u062f\u0627",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0645\u062f \u0627\u0644\u0639\u0646\u064a\u0641 \u0644\u0644\u0637\u0627\u062e\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0636\u0637\u0631\u0627\u0628 \u0627\u0644\u0641\u0648\u0633\u0641\u0648\u0644\u064a\u0628\u062f\u0627\u062a \u0627\u0644\u063a\u0634\u0627\u0626\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0641\u0642\u0631 \u0627\u0644\u062f\u0645 \u0627\u0644\u0639\u0631\u0637\u0644",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0643\u0644 \u0645\u0627 \u0633\u0628\u0642 \u062e\u0637\u0623 ",
+                "is_true": true
+            }
+        ],
+        "correct_answer": "\u0643\u0644 \u0645\u0627 \u0633\u0628\u0642 \u062e\u0637\u0623 "
+    },
+    {
+        "question_id": 18879,
+        "question_text": "Rouleux effect(\u0639\u062f\u0627)",
+        "answers": [
+            {
+                "answer_text": "\u062a\u0628\u0642\u0649 \u0627\u0644\u0643\u0631\u064a\u0627\u062a \u0627\u0644\u062d\u0645\u0631 \u0633\u0644\u064a\u0645\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u064a\u0631\u062a\u0641\u0639 \u0627\u0644\u0641\u064a\u0628\u0631\u0648\u0646\u062c\u064a\u0646",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u062a\u062a\u0634\u0648\u0647 \u0627\u0644\u0643\u0631\u064a\u0627\u062a \u0627\u0644\u062d\u0645\u0631\u0627\u0621 ",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u064a\u062d\u062f\u062b \u0641\u064a \u0648\u0631\u0645 \u0627\u0644\u0646\u0642\u064a \u0627\u0644\u0639\u062f\u064a\u062f ",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u062a\u062a\u0634\u0648\u0647 \u0627\u0644\u0643\u0631\u064a\u0627\u062a \u0627\u0644\u062d\u0645\u0631\u0627\u0621 "
+    },
+    {
+        "question_id": 18880,
+        "question_text": "\u0643\u0644 \u0645\u0627 \u064a\u0644\u064a \u0635\u062d\u064a\u062d \u0639\u062f\u0627",
+        "answers": [
+            {
+                "answer_text": "Chromatophilia \u0641\u064a \u0628\u0646\u064a\u0629 \u0627\u0644\u0643\u0631\u064a\u0629 \u0627\u0644\u062d\u0645\u0631\u0627\u0621 ",
+                "is_true": false
+            },
+            {
+                "answer_text": "Anisochromia \u0628\u064a\u0646 \u0643\u0631\u064a\u0629 \u062d\u0645\u0631\u0627\u0621 \u0648 \u0623\u062e\u0631\u0649 ",
+                "is_true": false
+            },
+            {
+                "answer_text": "Schistocytes \u0647\u064a \u0623\u062c\u0632\u0627\u0621 \u0645\u0646 \u0627\u0644\u062e\u0636\u0627\u0628",
+                "is_true": false
+            },
+            {
+                "answer_text": "Acanthocyte \u062a\u0634\u0627\u0647\u062f \u0641\u064a \u0627\u0644\u062a\u0644\u0627\u0633\u064a\u0645\u064a\u0627",
+                "is_true": true
+            }
+        ],
+        "correct_answer": "Acanthocyte \u062a\u0634\u0627\u0647\u062f \u0641\u064a \u0627\u0644\u062a\u0644\u0627\u0633\u064a\u0645\u064a\u0627"
+    },
+    {
+        "question_id": 18881,
+        "question_text": "\u0623\u0633\u0631\u0639 \u0627\u0644\u062e\u0636\u0627\u0628\u0627\u062a \u0647\u0648",
+        "answers": [
+            {
+                "answer_text": "HbA",
+                "is_true": false
+            },
+            {
+                "answer_text": "HbH",
+                "is_true": true
+            },
+            {
+                "answer_text": "HbA2",
+                "is_true": false
+            },
+            {
+                "answer_text": "HbC",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "HbH"
+    },
+    {
+        "question_id": 18886,
+        "question_text": "\u062a\u062a\u062e\u0631\u0628 \u0627\u0644\u0643\u0631\u064a\u0627\u062a \u0627\u0644\u062d\u0645\u0631 \u0628\u0633\u0628\u0628",
+        "answers": [
+            {
+                "answer_text": "\u062f\u062e\u0648\u0644 \u0627\u0644\u0628\u0648\u0644\u0629 \u0627\u0644\u0649 \u062f\u0627\u062e\u0644\u0647\u0627",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0646\u0642\u0635 \u062a\u0631\u0643\u064a\u0632 \u0627\u0644\u0628\u0648\u062a\u0627\u0633\u064a\u0648\u0645",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0631\u062a\u0641\u0627\u0639 \u062a\u0631\u0643\u064a\u0632 \u0627\u0644\u0635\u0648\u062f\u064a\u0648\u0645",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0644\u0627 \u062a\u0646\u062a\u062c \u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646\u0627\u062a",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u062f\u062e\u0648\u0644 \u0627\u0644\u0628\u0648\u0644\u0629 \u0627\u0644\u0649 \u062f\u0627\u062e\u0644\u0647\u0627"
+    },
+    {
+        "question_id": 18887,
+        "question_text": "\u062a\u0643\u0648\u0646 \u0627\u0644\u0634\u0628\u0643\u064a\u0627\u062a",
+        "answers": [
+            {
+                "answer_text": "\u0637\u0628\u064a\u0639\u064a \u0641\u064a \u0642\u0635\u0648\u0631 \u0627\u0644\u062f\u0631\u0642",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0645\u0631\u062a\u0641\u0639 \u0641\u064a \u0642\u0635\u0648\u0631 \u0627\u0644\u062f\u0631\u0642",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0645\u0631\u062a\u0641\u0639\u0629 \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0646\u0632\u0641",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0637\u0628\u064a\u0639\u064a\u0629 \u0627\u0648 \u0645\u0646\u062e\u0641\u0636\u0629 \u0641\u064a \u0627\u0644\u0641\u0634\u0644 \u0627\u0644\u0643\u0644\u0648\u064a",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0645\u0631\u062a\u0641\u0639 \u0641\u064a \u0642\u0635\u0648\u0631 \u0627\u0644\u062f\u0631\u0642"
+    },
+    {
+        "question_id": 18888,
+        "question_text": "\u0641\u064a \u0641\u0642\u0631 \u0627\u0644\u062f\u0645 \u0627\u0644\u0627\u0644\u062a\u0647\u0627\u0628\u064a",
+        "answers": [
+            {
+                "answer_text": "\u062d\u062f\u064a\u062f \u0627\u0644\u0645\u0635\u0644 \u0637\u0628\u064a\u0639\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u062d\u062f\u064a\u062f \u0627\u0644\u0645\u0635\u0644 \u0645\u0646\u062e\u0641\u0636",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u062d\u062f\u064a\u062f \u0627\u0644\u0645\u0635\u0644 \u0646\u0627\u0642\u0635 \u0648 \u0627\u0644\u062a\u0631\u0627\u0646\u0633\u0641\u064a\u0631\u064a\u0646 \u0646\u0627\u0642\u0635",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u062d\u062f\u064a\u062f \u0627\u0644\u0645\u0635\u0644 \u0646\u0627\u0642\u0635 \u0648 \u0627\u0644\u062a\u0631\u0627\u0646\u0633\u0641\u064a\u0631\u064a\u0646 \u0637\u0628\u064a\u0639\u064a",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u062d\u062f\u064a\u062f \u0627\u0644\u0645\u0635\u0644 \u0646\u0627\u0642\u0635 \u0648 \u0627\u0644\u062a\u0631\u0627\u0646\u0633\u0641\u064a\u0631\u064a\u0646 \u0646\u0627\u0642\u0635"
+    },
+    {
+        "question_id": 18889,
+        "question_text": "\u0641\u0642\u0631 \u0627\u0644\u062f\u0645 \u0633\u0648\u064a \u0627\u0644\u062d\u062c\u0645 \u0633\u0648\u064a \u0627\u0644\u0635\u0628\u0627\u063a",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u0627\u0645\u0631\u0627\u0636 \u0627\u0644\u0645\u0632\u0645\u0646\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0641\u0642\u0631 \u062f\u0645 \u0644\u0627 \u062a\u0646\u0633\u062c\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0627\u0645\u0631\u0627\u0636 \u0627\u0644\u0631\u0626\u0648\u064a\u0629",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0641\u0642\u0631 \u0627\u0644\u062f\u0645 \u0627\u0644\u0627\u0646\u062d\u0644\u0627\u0644\u064a",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u0627\u0645\u0631\u0627\u0636 \u0627\u0644\u0631\u0626\u0648\u064a\u0629"
+    },
+    {
+        "question_id": 18890,
+        "question_text": "\u0646\u0628\u062f\u0623 \u062f\u0631\u0627\u0633\u0629 \u0627\u0644\u0627\u0645\u0631\u0627\u0636 \u0627\u0644\u062f\u0645\u0648\u064a\u0629 \u0628\u062a\u062d\u0644\u064a\u0644",
+        "answers": [
+            {
+                "answer_text": "\u0639\u064a\u0627\u0631 \u0627\u0644\u0634\u0628\u0643\u064a\u0627\u062a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0644\u0637\u0627\u062e\u0629 \u0627\u0644\u062f\u0645\u0648\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0639\u064a\u0627\u0631 \u0627\u0644\u062d\u062f\u064a\u062f",
+                "is_true": false
+            },
+            {
+                "answer_text": "CBC",
+                "is_true": true
+            }
+        ],
+        "correct_answer": "CBC"
+    },
+    {
+        "question_id": 18891,
+        "question_text": "\u0627\u062c\u0633\u0627\u0645 \u0647\u0627\u0646\u0632 \u0641\u064a \u0645\u0631\u0636 \u0627\u0644\u0641\u0648\u0627\u0644",
+        "answers": [
+            {
+                "answer_text": "\u062a\u0643\u0634\u0641 \u0639\u0644\u0649 \u0627\u0644\u0644\u0637\u0627\u062e\u0629 \u0627\u0644\u062f\u0645\u0648\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0633\u0628\u0628\u0647\u0627 \u0646\u0642\u0635 \u0627\u0646\u0632\u064a\u0645 G6 PD",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0633\u0628\u0628\u0647\u0627 \u062a\u0623\u0643\u0633\u062f \u062c\u0630\u0648\u0631 \u0627\u0644\u0633\u0641\u0644\u0647\u062f\u0631\u064a\u0644 \u0641\u064a \u0627\u0644\u062e\u0636\u0627\u0628",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u064a\u062c\u0628 \u0645\u0639\u0627\u064a\u0631\u0629 G6 PD \u0628\u0639\u062f \u0627\u0644\u0646\u0648\u0628\u0629 \u0627\u0644\u0627\u0646\u062d\u0644\u0627\u0644\u064a\u0629 \u0645\u0628\u0627\u0634\u0631\u0629",
+                "is_true": true
+            }
+        ],
+        "correct_answer": "\u064a\u062c\u0628 \u0645\u0639\u0627\u064a\u0631\u0629 G6 PD \u0628\u0639\u062f \u0627\u0644\u0646\u0648\u0628\u0629 \u0627\u0644\u0627\u0646\u062d\u0644\u0627\u0644\u064a\u0629 \u0645\u0628\u0627\u0634\u0631\u0629"
+    },
+    {
+        "question_id": 18892,
+        "question_text": "\u062a\u0643\u062b\u0631 stomato cytes \u0641\u064a",
+        "answers": [
+            {
+                "answer_text": "\u0641\u0642\u0631 \u0627\u0644\u062f\u0645 \u0627\u0644\u0645\u0646\u062c\u0644\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0645\u0631\u0627\u0636 \u0627\u0644\u0643\u0628\u062f",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0641\u0642\u0631 \u0627\u0644\u062f\u0645 \u0627\u0644\u0639\u0631\u0637\u0644",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0641\u0642\u0631 \u0627\u0644\u062f\u0645 \u0627\u0644\u0627\u0646\u062d\u0644\u0627\u0644\u064a",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0645\u0631\u0627\u0636 \u0627\u0644\u0643\u0628\u062f"
+    },
+    {
+        "question_id": 18893,
+        "question_text": "\u0643\u0631\u064a\u0627\u062a acanthocytes \u062a\u0646\u062a\u062c \u0639\u0646",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0636\u0637\u0631\u0627\u0628 \u062a\u0635\u0646\u064a\u0639 \u0627\u0644\u0643\u0631\u064a\u0627\u062a \u0627\u0644\u062d\u0645\u0631",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0636\u0637\u0631\u0627\u0628 \u0627\u0633\u062a\u0642\u0644\u0627\u0628 \u0627\u0644\u0641\u0648\u0633\u0641\u0648\u0644\u064a\u0628\u064a\u062f\u0627\u062a",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0645\u062f \u0627\u0644\u0639\u0646\u064a\u0641 \u0644\u0644\u0637\u0627\u062e\u0629 \u0627\u0644\u062f\u0645\u0648\u064a\u0629",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062a\u062c\u0641\u0627\u0641",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0636\u0637\u0631\u0627\u0628 \u0627\u0633\u062a\u0642\u0644\u0627\u0628 \u0627\u0644\u0641\u0648\u0633\u0641\u0648\u0644\u064a\u0628\u064a\u062f\u0627\u062a"
+    },
+    {
+        "question_id": 18894,
+        "question_text": "\u062a\u0631\u062d\u0644 \u0627\u0644\u062e\u0636\u0627\u0628\u0627\u062a \u0627\u0644\u062a\u0627\u0644\u064a\u0629 \u0645\u0639\u0627 \u0639\u062f\u0627",
+        "answers": [
+            {
+                "answer_text": "A2",
+                "is_true": false
+            },
+            {
+                "answer_text": "E",
+                "is_true": false
+            },
+            {
+                "answer_text": "D",
+                "is_true": true
+            },
+            {
+                "answer_text": "C",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question_id": 18895,
+        "question_text": "\u0627\u062e\u062a\u0628\u0627\u0631 ESR",
+        "answers": [
+            {
+                "answer_text": "\u063a\u064a\u0631 \u0648\u0627\u0633\u0645 \u0644\u0646\u0633\u064a\u062c \u0645\u062d\u062f\u062f",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0627\u0631\u062a\u0641\u0627\u0639 \u0627\u0644\u0645\u0639\u0632\u0648\u0644 \u0634\u0627\u0626\u0639",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u064a\u0646\u062e\u0641\u0636 \u0641\u064a \u0641\u0642\u0631 \u0627\u0644\u062f\u0645 \u0627\u0644\u0645\u0646\u062c\u0644\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u064a\u0646\u062e\u0641\u0636 \u0641\u064a \u0641\u0642\u0631 \u0627\u0644\u062f\u0645 \u0627\u0644\u062d\u0627\u062f",
+                "is_true": true
+            }
+        ],
+        "correct_answer": "\u064a\u0646\u062e\u0641\u0636 \u0641\u064a \u0641\u0642\u0631 \u0627\u0644\u062f\u0645 \u0627\u0644\u062d\u0627\u062f"
+    },
+    {
+        "question_id": 18908,
+        "question_text": "\u064a\u062c\u0631\u0649 \u0627\u0644\u0631\u062d\u0644\u0627\u0646 \u0639\u0644\u0649 \u0648\u0633\u0637 \u062d\u0627\u0645\u0636\u064a \u0628\u0648\u0627\u0633\u0637\u0629",
+        "answers": [
+            {
+                "answer_text": "\u0633\u064a\u062a\u0631\u0627\u062a \u0627\u0644\u0627\u063a\u0627\u0631",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0633\u064a\u062a\u0627\u062a \u0627\u0644\u063a\u0644\u0648\u0643\u0648\u0632",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062a\u0646\u064a\u0646 \u0635\u062d",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062a\u0646\u064a\u0646 \u063a\u0644\u0637",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0633\u064a\u062a\u0631\u0627\u062a \u0627\u0644\u0627\u063a\u0627\u0631"
+    },
+    {
+        "question_id": 32040,
+        "question_text": "\u0641\u064a \u0645\u062e\u0637\u0637 \u0627\u0644\u0631\u062d\u0644\u0627\u0646 \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a \u0627\u0644\u062e\u0636\u0627\u0628 \u0627\u0644\u0623\u0642\u0631\u0628 \u0644\u0644\u0645\u0635\u0639\u062f",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u062e\u0636\u0627\u0628 A1 ",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u062e\u0636\u0627\u0628 A2",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u062e\u0636\u0627\u0628 S ",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0643\u0644 \u0645\u0627 \u0633\u0628\u0642 \u062e\u0627\u0637\u0626",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u062e\u0636\u0627\u0628 A1 "
+    },
+    {
+        "question_id": 32042,
+        "question_text": "\u0627\u0644\u0623\u062e\u0645\u0627\u062c \u0627\u0644\u0645\u0632\u0645\u0646\u0629",
+        "answers": [
+            {
+                "answer_text": "\u062a\u0631\u062a\u0641\u0639 \u0633\u0631\u0639\u0629 \u0627\u0644\u062a\u062b\u0641\u0644 ",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u062a\u0646\u062e\u0641\u0636 \u0633\u0631\u0639\u0629 \u0627\u0644\u062a\u062b\u0641\u0644",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u062a\u0631\u062a\u0641\u0639 \u0633\u0631\u0639\u0629 \u0627\u0644\u062a\u062b\u0641\u0644 "
+    },
+    {
+        "question_id": 32043,
+        "question_text": "\u0641\u0642\u0631 \u0627\u0644\u062f\u0645 \u0627\u0644\u0645\u0646\u062c\u0644\u064a",
+        "answers": [
+            {
+                "answer_text": "\u062a\u0631\u062a\u0641\u0639 \u0633\u0631\u0639\u0629 \u0627\u0644\u062a\u062b\u0641\u0644 ",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u062a\u0646\u062e\u0641\u0636 \u0633\u0631\u0639\u0629 \u0627\u0644\u062a\u062b\u0641\u0644 ",
+                "is_true": true
+            }
+        ],
+        "correct_answer": "\u062a\u0646\u062e\u0641\u0636 \u0633\u0631\u0639\u0629 \u0627\u0644\u062a\u062b\u0641\u0644 "
+    },
+    {
+        "question_id": 32068,
+        "question_text": "\u0645\u0631\u064a\u0636 HB=10 ,MCV=100fl \u0646\u0639\u0627\u064a\u0631",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u062d\u062f\u064a\u062f",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0641\u064a\u062a\u0627\u0645\u064a\u0646 B12",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646 \u0645\u0639\u0627",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0643\u0644 \u0645\u0627 \u0633\u0628\u0642 \u062e\u0627\u0637\u0626",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0641\u064a\u062a\u0627\u0645\u064a\u0646 B12"
+    },
+    {
+        "question_id": 32069,
+        "question_text": "\u0645\u0631\u064a\u0636 HB=10 ,MCV=70fl  \u0646\u0639\u0627\u064a\u0631",
+        "answers": [
+            {
+                "answer_text": "\u0627\u0644\u062d\u062f\u064a\u062f",
+                "is_true": true
+            },
+            {
+                "answer_text": "B12 \u0641\u064a\u062a\u0627\u0645\u064a\u0646",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646 \u0645\u0639\u0627",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0643\u0644 \u0645\u0627 \u0633\u0628\u0642 \u062e\u0627\u0637\u0626",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0627\u0644\u062d\u062f\u064a\u062f"
+    },
+    {
+        "question_id": 32070,
+        "question_text": "\u0627\u0644\u062a\u0631\u0648\u0645\u0628\u0648\u0643\u0633\u0627\u0646",
+        "answers": [
+            {
+                "answer_text": "\u0645\u0648\u0633\u0639 \u0648\u0639\u0627\u0626\u064a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u062a\u0641\u0639\u064a\u0644 \u0627\u0644\u0635\u0641\u064a\u062d\u0627\u062a",
+                "is_true": false
+            },
+            {
+                "answer_text": "\u0645\u0642\u0628\u0636 \u0648\u0639\u0627\u0626\u064a",
+                "is_true": true
+            },
+            {
+                "answer_text": "\u0645\u0633\u0627\u0639\u062f \u0641\u064a \u0634\u0644\u0627\u0644 \u0627\u0644\u062a\u062e\u062b\u0631",
+                "is_true": false
+            }
+        ],
+        "correct_answer": "\u0645\u0642\u0628\u0636 \u0648\u0639\u0627\u0626\u064a"
+    }
+]
